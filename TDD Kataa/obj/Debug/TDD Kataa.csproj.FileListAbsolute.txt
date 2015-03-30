@@ -1,0 +1,6 @@
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\bin\Debug\TDD Kataa.exe.config
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\bin\Debug\TDD Kataa.exe
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\bin\Debug\TDD Kataa.pdb
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\obj\Debug\TDD Kataa.csprojResolveAssemblyReference.cache
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\obj\Debug\TDD Kataa.exe
+c:\users\moaead\documents\visual studio 2013\Projects\TDD Kataa\TDD Kataa\obj\Debug\TDD Kataa.pdb
